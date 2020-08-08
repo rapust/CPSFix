@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "CPS Fix",
+  "mainClass": "de.rapust.addon.Addon",
+  "description": "This addon add a GUI module that will show your true CPS!",
+  "version": 1.0,
+  "author": "rapust",
+  "category": 1,
+  "icon": "https://i.imgur.com/iNDvEeC.png"
+}
