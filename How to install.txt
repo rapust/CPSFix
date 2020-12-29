@@ -1,0 +1,22 @@
+1. Download the "CPS Fix.jar" file;
+
+2. Move it to the ".minecraft/LabyMod/addons-1.8" folder;
+    You can open it with:
+    1) Press Win+R;
+    2) Type %appdata% in there and press Enter;
+    3) Open the "Roaming" folder;
+    4) Find ".minecraft" in there!
+
+3) Run your LabyMod-1.8.9 version or restart it;
+
+4) Go to the Settings -> LabyMod settings -> Ingame GUI
+
+5) Open the "Miscellaneous" category (It has Wooden Box as logo);
+
+6) Turn on the "CPS" module (It has Stone Button as logo) (NOT "CLICKS" MODULE!!!);
+
+7) That's all! You can move it in the right of the screen where you want and change its appearance by clicking on the gear to the right of the module in the category!
+
+If you have any issues you can DM me in the Discord: rapustka#3096
+
+Thanks for using my addon c:
